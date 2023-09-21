@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
+
+[[files]]
+file = "README.md"
+hash = "fcead9ed001cb71e1c51ef28ab06025c559e04bba156a9dde6e04a351046df18"
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "36b3e3375a645a376264836683a508d7fa2e555fb55f173bb7fe4571ca15702f"
 metafile = true
