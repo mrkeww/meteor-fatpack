@@ -1,6 +1,9 @@
 name = "Meteor-Client"
-filename = "meteor-client.jar"
+filename = "meteor-client-0.5.4-1937.jar"
 side = "client"
 
 [download]
-url = "https://meteorclient.com/download?devBuild=latest"
+url = "https://meteorclient.com/download?devBuild=1937"
+
+hash-format = "sha256"
+hash = "1f8bcaa268573c73d656f23953cc83e097bdb47afa9946db5dd1dc92231b8a31"
