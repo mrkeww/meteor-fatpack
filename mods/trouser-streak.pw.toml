@@ -1,0 +1,9 @@
+name = "Trouser-Streak"
+filename = "1trouser-streak-0.6.6-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/etianl/Trouser-Streak/releases/download/v0.6.6/1trouser-streak-0.6.6-1.20.1.jar"
+
+hash-format = "sha256"
+hash = "f23eac711c288ff013c28ad5e8a46afd558b7334b4beb9332514712f8ec1130a"

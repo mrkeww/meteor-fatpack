@@ -1,0 +1,13 @@
+name = "Meteor Fatpack"
+author = "mrkeww"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2aec6147fd96e1151cef28df1d43046062c96abe4c08d1c26a7316bc7fecf3af"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"

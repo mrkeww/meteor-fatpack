@@ -1,0 +1,71 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "36b3e3375a645a376264836683a508d7fa2e555fb55f173bb7fe4571ca15702f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/meteor-client.pw.toml"
+hash = "ee0b34c97d3c01c732dc2a930e5c8c665053dd51be1b4c3d27e103efc8f1e41f"
+metafile = true
+
+[[files]]
+file = "mods/meteor-plus.pw.toml"
+hash = "2c448ad4035a0e4aafd924888e783aab37905683965264aa904d3b0844b8012c"
+metafile = true
+
+[[files]]
+file = "mods/meteor-rejects-addon.pw.toml"
+hash = "9f3f3b5699ab2b966984f29704f08c067a1244b8f04c3218ff5682a9651a095e"
+metafile = true
+
+[[files]]
+file = "mods/meteorist.pw.toml"
+hash = "b963b021e8ef28124cf4557e60fb0feb7bc41b48f81f1a99036332048a9aa004"
+metafile = true
+
+[[files]]
+file = "mods/numby-hack.pw.toml"
+hash = "adb5704f143015ce99f53008318002744db907aaeedfe4fe40c54f7dbe9b48de"
+metafile = true
+
+[[files]]
+file = "mods/orion.pw.toml"
+hash = "b065586adc40efcedaac77e7fc93324dd807fac77744ee44f96b26d254ab05cb"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/trouser-streak.pw.toml"
+hash = "2d1f2378602b716cccb1daebaf205a838973d7ac3e3242c527bcb9f53ae9c67f"
+metafile = true
+
+[[files]]
+file = "mods/villager-roller.pw.toml"
+hash = "43612e57b4e6d682354e7863dcafbe988de7458707f7e6b1fae1f0060a9030a1"
+metafile = true
