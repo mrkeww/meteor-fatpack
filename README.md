@@ -3,7 +3,7 @@
 </p>
 
 # Meteor Fatpack
-Modpack that includes Meteor client (utility client for fabric) and best addons for it from anticope.ml
+Modpack that includes Meteor client (utility client for fabric) and best addons for it from anticope.ml 1
 
 # Usage
 
