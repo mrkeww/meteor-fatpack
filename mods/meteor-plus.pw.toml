@@ -6,4 +6,4 @@ side = "client"
 url = "https://github.com/Nekiplay/MeteorPlus/releases/download/1.20.1/meteor-plus-1.0.3.jar"
 
 hash-format = "sha256"
-hash = "4115bb963be6e7d845a2c8419928af583ce7c5cc9d1e088a0e3b7ac3a717507d"
+hash = "f80a5ee4ccae0412714cc61f85052fbc162b02f57fdb618a0e3cb61f373ff477"

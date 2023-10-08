@@ -9,8 +9,18 @@ file = "README.md"
 hash = "fcead9ed001cb71e1c51ef28ab06025c559e04bba156a9dde6e04a351046df18"
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "36b3e3375a645a376264836683a508d7fa2e555fb55f173bb7fe4571ca15702f"
+hash = "3aeb6ef6af53a3e69fe5e99eaa318363417fa1bc18073e5219662c3535aaf80c"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
 metafile = true
 
 [[files]]
@@ -20,12 +30,12 @@ metafile = true
 
 [[files]]
 file = "mods/meteor-client.pw.toml"
-hash = "714653ebc44f58699bdfc8e8e642345bf268b6abe77befb74f7aa9423a22015d"
+hash = "a252752ab5240067b149090c1f6f847ef577a25db0a38cc138e1de9e9d784230"
 metafile = true
 
 [[files]]
 file = "mods/meteor-plus.pw.toml"
-hash = "2c448ad4035a0e4aafd924888e783aab37905683965264aa904d3b0844b8012c"
+hash = "6e385be2f9771495485b417e5ebfe6ee4891ba5a47142d4767844e2f8ecdc07d"
 metafile = true
 
 [[files]]
@@ -71,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/trouser-streak.pw.toml"
 hash = "2d1f2378602b716cccb1daebaf205a838973d7ac3e3242c527bcb9f53ae9c67f"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "9cec4fbd17a77c743a9502aac35217e709c5cc87fe2c46467c420660dc589400"
 metafile = true
 
 [[files]]
