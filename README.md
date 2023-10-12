@@ -5,6 +5,8 @@
 # Meteor Fatpack
 Modpack that includes Meteor client (utility client for fabric) and best addons for it from anticope.ml
 
+Please consider giving the project s star if you like it
+
 # Usage
 
 On multimc/forks of multimc for example PrismLauncher or any launcher that supports .mrpack files(modrinth modpack file)
