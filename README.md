@@ -5,7 +5,7 @@
 # Meteor Fatpack
 Modpack that includes Meteor client (utility client for fabric) and best addons for it from anticope.ml
 
-Please consider giving the project s star if you like it
+Please consider giving the project a star if you like it
 
 # Usage
 
