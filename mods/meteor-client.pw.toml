@@ -6,5 +6,5 @@ side = "client"
 url = "https://meteorclient.com/api/download?devBuild=1948"
 
 hash-format = "sha256"
-hash = "57aae5b1c7bf21b21fa8e9cc0ee501cbbf50122fc22190f5262b8d9836512346"
+hash = "7814c6385efa0c2c7cce2335993f3926b49ff61f65bd4c354c386c7359132d62"
 
