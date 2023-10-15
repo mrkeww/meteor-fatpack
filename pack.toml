@@ -1,6 +1,6 @@
 name = "Meteor-Fatpack"
 author = "mrkeww"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "6a76674b22557471f66ad6df7ea32e1c8e812e0aba3a3ea5a2907dad0bd23c41"
 
 [versions]
 fabric = "0.14.22"
-minecraft = "1.20.1"
+minecraft = "1.20.2"
