@@ -1,9 +1,9 @@
 name = "Meteor-Plus"
-filename = "meteor-plus-1.0.3.jar"
+filename = "meteor-plus-1.0.4.jar"
 side = "client"
 
 [download]
-url = "https://github.com/Nekiplay/MeteorPlus/releases/download/1.20.1/meteor-plus-1.0.3.jar"
+url = "https://github.com/Nekiplay/MeteorPlus/releases/download/1.20.2/meteor-plus-1.0.4.jar"
 
 hash-format = "sha256"
-hash = "f80a5ee4ccae0412714cc61f85052fbc162b02f57fdb618a0e3cb61f373ff477"
+hash = "9152f79f09a084ef279f03adb3e2d8463723b61981af8a32651dbd245e4654e6"
