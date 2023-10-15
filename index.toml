@@ -9,13 +9,12 @@ file = "README.md"
 hash = "06427c80e3c71d8f8fcc6ed6c06d88f8794225100d2a0eddac499a3860b2b556"
 
 [[files]]
-file = "mods/ebe.pw.toml"
+file = "mods/ebe.pw.toml.disabled"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
-metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "210a7ceddcaadd495e9c80a7bd30d2af6c1e8aefca0b0babb4023adef541008d"
+hash = "714158dafbd5954a8024d5b7e677fc1303d1c0bc665c7df5942d3a685904988e"
 metafile = true
 
 [[files]]
@@ -25,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
 
 [[files]]
@@ -39,43 +38,39 @@ hash = "91e2cb77c1f0dfc316e84dd554c581ea6a927a8b5060d5f5ad825951ac186737"
 metafile = true
 
 [[files]]
-file = "mods/meteor-rejects-addon.pw.toml"
+file = "mods/meteor-rejects-addon.pw.toml.disabled"
 hash = "9f3f3b5699ab2b966984f29704f08c067a1244b8f04c3218ff5682a9651a095e"
-metafile = true
 
 [[files]]
-file = "mods/meteorist.pw.toml"
+file = "mods/meteorist.pw.toml.disabled"
 hash = "b963b021e8ef28124cf4557e60fb0feb7bc41b48f81f1a99036332048a9aa004"
-metafile = true
 
 [[files]]
-file = "mods/numby-hack.pw.toml"
+file = "mods/numby-hack.pw.toml.disabled"
 hash = "adb5704f143015ce99f53008318002744db907aaeedfe4fe40c54f7dbe9b48de"
-metafile = true
 
 [[files]]
-file = "mods/orion.pw.toml"
+file = "mods/orion.pw.toml.disabled"
 hash = "b065586adc40efcedaac77e7fc93324dd807fac77744ee44f96b26d254ab05cb"
-metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+hash = "19a098ab3131eb6daf0033199744d33dbb31a4ce9b20b9fc6eb709ab1272aa7e"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
+hash = "7e39ba5b471407bf43c212fae99856276bf4411046aa3a5df5a7d27e76c7a2b3"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+hash = "0a78a506125c0edc97d2292d26c6eab310106c60a5a4e64d73ff67bb619f5a4c"
 metafile = true
 
 [[files]]
@@ -85,10 +80,9 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "9cec4fbd17a77c743a9502aac35217e709c5cc87fe2c46467c420660dc589400"
+hash = "6bf320ce4be2a2ea24e7ca53c776802fd41f46598d06a3398ae23ebeb9964131"
 metafile = true
 
 [[files]]
-file = "mods/villager-roller.pw.toml"
+file = "mods/villager-roller.pw.toml.disabled"
 hash = "43612e57b4e6d682354e7863dcafbe988de7458707f7e6b1fae1f0060a9030a1"
-metafile = true
