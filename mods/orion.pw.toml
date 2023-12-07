@@ -1,0 +1,9 @@
+name = "Orion"
+filename = "orion-0.2.jar"
+side = "client"
+
+[download]
+url = "https://github.com/AntiCope/orion/releases/download/latest-1.20.2/orion-0.2.jar"
+
+hash-format = "sha256"
+hash = "5a23b8cf3142def3fd7ad8cd29e14abafbc7bc718372219c22078e5a93f578a7"

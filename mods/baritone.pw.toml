@@ -1,0 +1,9 @@
+name = "baritone"
+filename = "baritone-1.20.2-20231126.195628-3.jar"
+side = "client"
+
+[download]
+url = "https://meteorclient.com/api/downloadBaritone"
+
+hash-format = "sha256"
+hash = "b29c4bedcfa30ddfeaa1b7d7abfa75031b1bd134d88f8c6cc8143b427cdadd4a"

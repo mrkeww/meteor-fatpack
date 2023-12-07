@@ -1,0 +1,9 @@
+name = "Villager-Roller"
+filename = "villager-roller-1.4.3+mc1.20.2-rev.019b0cc.jar"
+side = "client"
+
+[download]
+url = "https://github.com/maxsupermanhd/meteor-villager-roller/releases/download/1.4.3/villager-roller-1.4.3+mc1.20.2-rev.019b0cc.jar"
+
+hash-format = "sha256"
+hash = "111f983e0d3c453156b3c85854661c3f948bd5be907a416333bd4cc5a5d74e8e"

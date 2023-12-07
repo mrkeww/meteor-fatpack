@@ -1,0 +1,9 @@
+name = "Meteor-Rejects"
+filename = "meteor-rejects-addon-0.3.jar"
+side = "client"
+
+[download]
+url = "https://github.com/AntiCope/meteor-rejects/releases/download/latest-1.20.2/meteor-rejects-addon-0.3.jar"
+
+hash-format = "sha256"
+hash = "935e6cd57c3fdd3e23d6508cdb34e32fe123938ead6a91acfb314e4385ad739d"
