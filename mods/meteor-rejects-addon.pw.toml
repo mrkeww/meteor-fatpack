@@ -6,4 +6,4 @@ side = "client"
 url = "https://github.com/AntiCope/meteor-rejects/releases/download/latest-1.20.2/meteor-rejects-addon-0.3.jar"
 
 hash-format = "sha256"
-hash = "935e6cd57c3fdd3e23d6508cdb34e32fe123938ead6a91acfb314e4385ad739d"
+hash = "345b6af01d8f0b7066341d73e2a2a84e26e81a0338e1c1eb7f05a4d5ded4ffb9"

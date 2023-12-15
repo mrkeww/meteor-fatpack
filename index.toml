@@ -40,12 +40,12 @@ metafile = true
 
 [[files]]
 file = "mods/meteor-plus.pw.toml"
-hash = "bea9ee1f8125e404429a3cfa734ae58773c191ff4af94eaabcaccd7431afe4b7"
+hash = "2d81dfcfc4da187b8152cee08ef445b5f7e2b5bcd7f0174654a7287958d4db9c"
 metafile = true
 
 [[files]]
 file = "mods/meteor-rejects-addon.pw.toml"
-hash = "360d8b409616904602ebd82ca9d1d60796df8745c5988c2612b0451b540ff14d"
+hash = "df90a3b15483e1c1208f1b5dbbfa6d38ee4f9d5b23c41c83e425d2434be10717"
 metafile = true
 
 [[files]]
