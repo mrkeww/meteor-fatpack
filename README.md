@@ -35,7 +35,6 @@ On multimc/forks of multimc for example PrismLauncher or any launcher that suppo
 * Fabric API (from https://modrinth.com/mod/fabric-api)
 * Sodium (from https://modrinth.com/mod/sodium)
 * Lithium (from https://modrinth.com/mod/lithium)
-* Starlight (from https://modrinth.com/mod/starlight)
 * Sodium extra (from https://modrinth.com/mod/sodium-extra)
 * Reese's Sodium Options (from https://modrinth.com/mod/reeses-sodium-options)
 * ViaFabricPlus (from https://modrinth.com/mod/viafabricplus)
