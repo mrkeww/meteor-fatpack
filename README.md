@@ -3,7 +3,7 @@
 </p>
 
 # Meteor Fatpack
-Modpack that includes Meteor client (utility client for fabric) and best addons for it from anticope.ml
+Modpack that includes Meteor client (utility client for fabric) and best addons for it from https://anticope.pages.dev
 
 Please consider giving the project a star if you like it
 
@@ -23,10 +23,10 @@ On multimc/forks of multimc for example PrismLauncher or any launcher that suppo
 # Addons
 
 * Meteor client (from https://github.com/MeteorDevelopment/meteor-client)
-* Meteor Rejects (from https://github.com/AntiCope/meteor-rejects)
-* Meteorist (from https://github.com/Zgoly/Meteorist)
+* Numby-hack (from https://github.com/cqb13/Numby-hack)
 * Meteor villager roller (from https://github.com/maxsupermanhd/meteor-villager-roller)
 * TrouserStreak (from https://github.com/etianl/Trouser-Streak)
+* Baritone (from https://github.com/cabaletta/baritone)
 
 
 # Other mods
@@ -37,5 +37,4 @@ On multimc/forks of multimc for example PrismLauncher or any launcher that suppo
 * Sodium extra (from https://modrinth.com/mod/sodium-extra)
 * Reese's Sodium Options (from https://modrinth.com/mod/reeses-sodium-options)
 * ViaFabricPlus (from https://modrinth.com/mod/viafabricplus)
-* Enhanced Block Entities (from https://modrinth.com/mod/ebe)
 * ImmediatelyFast (from https://modrinth.com/mod/immediatelyfast)

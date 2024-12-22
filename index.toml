@@ -6,93 +6,64 @@ hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
 
 [[files]]
 file = "README.md"
-hash = "06427c80e3c71d8f8fcc6ed6c06d88f8794225100d2a0eddac499a3860b2b556"
+hash = "61051ae2722cd302d205f24d38e5e89531d0708fee204ab1eddb0cfd38cbdfb8"
 
 [[files]]
 file = "mods/baritone.pw.toml"
-hash = "40db0e3e6d3eee7e1179633ebccae196d752d272f6e26ba01b9583b99999bd30"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
+hash = "c494fc4993a4df28ddf5ca05a60c090b657a9b3e2ce561176f6175f422e55324"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d171eabd7e1e44aaf3437dff4887bd02d2bb90f54c219417f538278b0f6cda12"
+hash = "69476cfde7c2f8983b93febea74c4792fd62204180fe9d11947d51935fbb8a5c"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+hash = "953f8e2dd7e65b47ebafc870a39e1b2da4653fde30b1fdf29cbae49c93853f3e"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
+hash = "897b2efd9cc8d4e9eddb1ee15cfa3504ff213d8bfcae0dbfa594d39828760192"
 metafile = true
 
 [[files]]
 file = "mods/meteor-client.pw.toml"
-hash = "240a4425de7a9edf3d4d69b68809dd141900ee12e0c513ed2dee31a8e0776068"
-metafile = true
-
-[[files]]
-file = "mods/meteor-plus.pw.toml"
-hash = "2d81dfcfc4da187b8152cee08ef445b5f7e2b5bcd7f0174654a7287958d4db9c"
-metafile = true
-
-[[files]]
-file = "mods/meteor-rejects-addon.pw.toml"
-hash = "df90a3b15483e1c1208f1b5dbbfa6d38ee4f9d5b23c41c83e425d2434be10717"
-metafile = true
-
-[[files]]
-file = "mods/meteorist.pw.toml"
-hash = "fbeff5acbf553be8a2db64b582502695085a08a8f84bc3718729d37a69651aa2"
+hash = "86ce9505747a493a71864e7fc80091de5ad857dbb1e0afb065aca43e9b0adf48"
 metafile = true
 
 [[files]]
 file = "mods/numby-hack.pw.toml"
-hash = "9f527bf1064dfd260477adcc413c52ee711d15375def7da43f3360df5843ca2e"
-metafile = true
-
-[[files]]
-file = "mods/orion.pw.toml"
-hash = "41368a137581f9ce1fed94303be373db865e5c0688974956291a76cd94d0fab4"
+hash = "d62576eb6f2596d770c3c6bfcf6cc17f0c847ba73b15ef70f9d818e16ed27c31"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "92fbfef541293794a06fdc71deedfb86d12fc2f3e5fc42842f94bb9f6a42e2ed"
+hash = "1312b083bd8ffaecc4e5ca03f968f1a1080832e4d89386455acc17ae69b1bfde"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ebe386eef0fb117e3bc3252786fbca4b3f05e45eb2cc8e2f56549aad396d244f"
+hash = "55fe122bbbd284e64fc31fd1fc77f20b86f0e44b9650490a306e19184558659d"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f1d83469db110ef5cad996049037740d122688703cd90e75ecdc52e4d834a360"
+hash = "3864737ec8a6f1ca618ccf7893fd235decc7c66ccd2259561fe28972b68c9d02"
 metafile = true
 
 [[files]]
-file = "mods/starlight.pw.toml.disabled"
-hash = "23d83307382a895306bbf2abb0abcdd00ff4536ebd2f42815de68183fc5ec435"
-
-[[files]]
 file = "mods/trouser-streak.pw.toml"
-hash = "04784bb361015f94bac2bdc2c32712e39e2bc965916a27b14e9d2c80841992e4"
+hash = "4b507e7a7865eff18095d7236e58377f34d29dc734fad933fcb89e2bd3f56a5d"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "6a432ea31b94fb97f47d141524f2251c0be4c0375c97c69998596ba8aedede4c"
+hash = "db84da0a237826dd9b86e1c76548b3293ee348158b69f4a491af887a8eb734b0"
 metafile = true
 
 [[files]]
 file = "mods/villager-roller.pw.toml"
-hash = "2b80773122ee1d76a01a484a655c123ba25348d43929434f71c9037c81e4f9e8"
+hash = "360d725e938bb502039530dfa04cb78acf2d1b825b3b66ec65a2cfb1f5363bf1"
 metafile = true

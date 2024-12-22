@@ -1,9 +1,9 @@
-name = "baritone"
-filename = "baritone-1.20.2-20231126.195628-3.jar"
+name = "Baritone"
+filename = "baritone-api-fabric-1.11.1.jar"
 side = "client"
 
 [download]
-url = "https://meteorclient.com/api/downloadBaritone"
+url = "https://github.com/cabaletta/baritone/releases/download/v1.11.1/baritone-api-fabric-1.11.1.jar"
 
 hash-format = "sha256"
-hash = "b29c4bedcfa30ddfeaa1b7d7abfa75031b1bd134d88f8c6cc8143b427cdadd4a"
+hash = "10e7f1441f23da2e1454ce72edf74546102b126226cda62a1931605d0780f315"

@@ -1,9 +1,0 @@
-name = "Meteorist"
-filename = "meteorist-1.7.jar"
-side = "client"
-
-[download]
-url = "https://github.com/Zgoly/Meteorist/releases/download/v1.7/meteorist-1.7.jar"
-
-hash-format = "sha256"
-hash = "c2ef1d86daa81430828fe5981371321a1334e87c750e2db3328661485ebc540c"
