@@ -7,7 +7,6 @@ Modpack that includes Meteor client (utility client for fabric) and best addons 
 
 Please consider giving the project a star if you like it
 
-PACK NOT WORKING AT THE MOMENT DONT PLAN ON UPDATING
 
 ***Only the newest releases work so heres a link to it:*** https://github.com/mrkeww/meteor-fatpack/releases/latest
 
