@@ -24,11 +24,8 @@ On multimc/forks of multimc for example PrismLauncher or any launcher that suppo
 
 * Meteor client (from https://github.com/MeteorDevelopment/meteor-client)
 * Meteor Rejects (from https://github.com/AntiCope/meteor-rejects)
-* Meteor Plus (from https://github.com/Nekiplay/MeteorPlus)
-* Orion (from https://github.com/AntiCope/orion)
 * Meteorist (from https://github.com/Zgoly/Meteorist)
 * Meteor villager roller (from https://github.com/maxsupermanhd/meteor-villager-roller)
-* Numby hack (from https://github.com/cqb13/Numby-hack)
 * TrouserStreak (from https://github.com/etianl/Trouser-Streak)
 
 
