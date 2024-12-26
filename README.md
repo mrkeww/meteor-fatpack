@@ -37,3 +37,4 @@ On multimc/forks of multimc for example PrismLauncher or any launcher that suppo
 * Reese's Sodium Options (from https://modrinth.com/mod/reeses-sodium-options)
 * ViaFabricPlus (from https://modrinth.com/mod/viafabricplus)
 * ImmediatelyFast (from https://modrinth.com/mod/immediatelyfast)
+* Simple-armor-hud (from https://modrinth.com/mod/simple-armor-hud)
