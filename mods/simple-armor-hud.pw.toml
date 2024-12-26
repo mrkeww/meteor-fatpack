@@ -1,0 +1,13 @@
+name = "Simple Armor Hud"
+filename = "simple-armor-hud-1.21.3-1.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tJflAtvJ/versions/zjEvdvTm/simple-armor-hud-1.21.3-1.5.1.jar"
+hash-format = "sha1"
+hash = "730fc70f753dea428ca5158e1236c69998139d57"
+
+[update]
+[update.modrinth]
+mod-id = "tJflAtvJ"
+version = "zjEvdvTm"

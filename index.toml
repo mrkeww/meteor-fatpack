@@ -6,7 +6,7 @@ hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
 
 [[files]]
 file = "README.md"
-hash = "61051ae2722cd302d205f24d38e5e89531d0708fee204ab1eddb0cfd38cbdfb8"
+hash = "551f8ecf775ee87166b132a1de0ecfce93a5b3c9d6176c9db02b75ebe01297ba"
 
 [[files]]
 file = "mods/baritone.pw.toml"
@@ -41,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1312b083bd8ffaecc4e5ca03f968f1a1080832e4d89386455acc17ae69b1bfde"
+metafile = true
+
+[[files]]
+file = "mods/simple-armor-hud.pw.toml"
+hash = "ead10218581d0e5dbb80685353db187e9aa10148e92d6860f921141524607cf7"
 metafile = true
 
 [[files]]
