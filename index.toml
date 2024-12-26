@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/meteor-client.pw.toml"
-hash = "86ce9505747a493a71864e7fc80091de5ad857dbb1e0afb065aca43e9b0adf48"
+hash = "b2f2e57b9d83b85069c078171408cd23fb011ce50fc9f408864b595eb2e7e9c0"
 metafile = true
 
 [[files]]

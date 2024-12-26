@@ -1,12 +1,12 @@
 name = "Meteor-Fatpack"
 author = "mrkeww"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8aa270aa0c51a49f26e53cf02ba649fcad3b9802a9a495238f5f24285a59419c"
+hash = "8f6d81660856d3b604d23cc2f175e6a5269613d908e0d68e87b94def6a774ff7"
 
 [versions]
 fabric = "0.16.9"
